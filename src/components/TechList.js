@@ -5,7 +5,6 @@ class TechList extends Component{
       'Node.js',
       'React JS',
       'React Native'
-
     ]
   };
 
